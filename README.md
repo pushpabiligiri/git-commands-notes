@@ -18,7 +18,7 @@ git add .
 ```bash
 git commit -m "write commit message"
 ```
- 5. Command to push the project to GitHub main branch
+ 5. Commands to push the project to GitHub main branch
  ```bash
  git push origin main
  # OR
