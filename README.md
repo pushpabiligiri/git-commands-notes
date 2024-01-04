@@ -18,7 +18,7 @@ git add .
 ```bash
 git commit -m "write commit message"
 ```
- 5. Commands to push the project to GitHub main branch
+ 5. Commands to push the project to the GitHub 
  ```bash
  git push origin main
  # OR
@@ -43,4 +43,8 @@ git commit -m "write commit message"
 10. Command to compare the changes
 ```bash
 git diff
+```
+11. Command will create a new branch and switch to the new branch in a single command
+```bash
+git checkout -b <new-branch>
 ```
